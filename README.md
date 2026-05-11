@@ -2,7 +2,7 @@
 **Developer | UI/UX Designer**
 
 🌱 I’m currently exploring .NET C# and building full-stack web apps  
-💻 Skills: C#, HTML, CSS, JavaScript, Figma, Adobe XD  
+💻 Skills: React, C#, HTML, CSS, JavaScript, Figma, Adobe XD  
 🎨 Passionate about creating responsive, user-friendly interfaces and bridging design with code  
 
 ---
